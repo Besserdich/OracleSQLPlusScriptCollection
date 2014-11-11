@@ -1,8 +1,8 @@
 /***********************************************
 * Author:  Karsten Besserdich
 * Firma:   Besserdich Sustainable IT Solutions GmbH
-* Date:	   03.11.2014
-* URL:	   http://www.besserdich.com
+* Date:	   11.11.2014
+* URL:	    http://www.besserdich.com
 * Twitter: @BesserdichIT
 * EMail:   karsten.besserdich@besserdich.com
 *
