@@ -12,6 +12,8 @@
 * Angabe der Parameter mittels Eingabeprompt 
 * abgefragt werden.
 *
+* More Informations: 
+* http://www.besserdich.com/oracle/sqlplus-script-parameteruebergabe-mittels-commandline-oder-prompt/
 ************************************************/
 SET SERVEROUTPUT ON
 SET VERIFY OFF
