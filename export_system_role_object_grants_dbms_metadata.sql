@@ -6,6 +6,9 @@
 * Twitter: @BesserdichIT
 * EMail:   karsten.besserdich@besserdich.com
 *
+* More Informations
+* http://www.besserdich.com/oracle/export-system-rollen-und-objektrechte-mit-dbms_metadata/
+*
 * PARAMETER 1 - Pfad inkl. Name der zu erstellenden SQL-Datei 
 * PARAMETER 2 - Rolle- oder Username von dem die Rechte 
 *               extrahiert werden sollen
